@@ -151,7 +151,7 @@ namespace bacheca
 
         public override string ToString()
         {
-            return "Product:" + Id + ";" + Name + ";" + Manufacturer + ";" + Description + ";" + Price;
+            return "Product:" + Id + ";" ;
         }
 
     }
